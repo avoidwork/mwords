@@ -1,0 +1,4 @@
+words
+=====
+
+Mnemonic word list
