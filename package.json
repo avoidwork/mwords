@@ -1,7 +1,7 @@
 {
   "name": "mwords",
   "description": "Mnemonic word list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://avoidwork.github.io/mwords",
   "author": {
     "name": "Jason Mulligan",
