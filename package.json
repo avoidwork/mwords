@@ -1,26 +1,26 @@
 {
-  "name": "words",
+  "name": "mwords",
   "description": "Mnemonic word list",
   "version": "0.1.0",
-  "homepage": "http://avoidwork.github.io/words",
+  "homepage": "http://avoidwork.github.io/mwords",
   "author": {
     "name": "Jason Mulligan",
     "email": "jason.mulligan@avoidwork.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/avoidwork/words.git"
+    "url": "git://github.com/avoidwork/mwords.git"
   },
   "bugs": {
-    "url": "https://github.com/avoidwork/words/issues"
+    "url": "https://github.com/avoidwork/mwords/issues"
   },
   "licenses": [
     {
       "type": "Public Domain",
-      "url": "https://raw.github.com/avoidwork/words/master/LICENSE"
+      "url": "https://raw.github.com/avoidwork/mwords/master/LICENSE"
     }
   ],
-  "main": "lib/words",
+  "main": "lib/mwords",
   "engines": {
     "node": ">=0.4.0"
   },
